@@ -1,1 +1,1 @@
-a basic customo join plugin for mundocraft
+a basic custom join plugin for mundocraft
