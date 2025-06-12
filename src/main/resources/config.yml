@@ -1,0 +1,3 @@
+join-message: "&6&l» &e{player} &2ha entrado al servidor"
+quit-message: "&6&l» &e{player} &4ha salido del servidor"
+first-join-message: "&d¡Bienvenido &7{player} &da los Skywars en Mundocraft!"

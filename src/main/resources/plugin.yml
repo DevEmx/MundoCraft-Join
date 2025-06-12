@@ -1,0 +1,5 @@
+name: MundoCraft-Join
+version: '${project.version}'
+main: us.devemx.mundocraft.CustomJoin
+author: Devemx
+description: A custom join plugin for MundoCraft
